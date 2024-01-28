@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ramidhouib389@gmail.com**
 
-- 📄 Know about my experiences [link:Online portfolio](link:Online portfolio)
+- 📄 Know about my experiences [link:Online portfolio]([link:Online portfolio](https://ramidhouib1998.github.io/PERSONAL-PORTFOLIO/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
